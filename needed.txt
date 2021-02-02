@@ -1,0 +1,17 @@
+attrs==20.3.0
+beautifulsoup4==4.9.3
+certifi==2020.12.5
+chardet==4.0.0
+idna==2.10
+joblib==1.0.0
+mysql-connector==2.2.9
+numpy==1.19.5
+persiantools==1.5.1
+price-parser==0.3.4
+requests==2.25.1
+scikit-learn==0.24.1
+scipy==1.6.0
+sklearn==0.0
+soupsieve==2.1
+threadpoolctl==2.1.0
+urllib3==1.26.2
